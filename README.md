@@ -3,7 +3,7 @@
   
 ### Как запустить  
 
-    git clone  
+    git clone  https://github.com/egorvas/yandex-praktium-test-task.git
     cd yandex-praktium-test-task  
     ./gradlew clean test  
 
